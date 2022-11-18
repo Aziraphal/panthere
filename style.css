@@ -708,6 +708,8 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    justify-content: space-around;
 }
 
 h2 {
@@ -889,8 +891,8 @@ h4 {
     }
 
     .bloc {
-        padding-left: 15%;
-        padding-right: 15%;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 
     .bloc-group,
@@ -902,8 +904,8 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: 10%;
-        padding-right: 10%;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
 
