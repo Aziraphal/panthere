@@ -39,6 +39,13 @@ a:hover {
     position: relative;
 }
 
+.bloc img{
+    width: 100%;
+}
+img.center-block.image-resize-mode{
+    width: 50%;
+}
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
